@@ -1,6 +1,6 @@
 # RoboticsAssign2
 
-This repository was created as a collaboration between Keith Russell, Samrat Patel and Ruchik Mishra.
+This repository was created as a collaboration between Keith Russell, Samrat Pravin Patel and Ruchik Mishra.
 
 The "LaGrange By Hand" File is an attempt to derive LaGrangian equations of motion from a dynamics based approach.
 
